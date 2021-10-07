@@ -27,3 +27,5 @@ There is a notebook available here to showcase work related to the above questio
 ## Results<a name="results"></a>
 
 Github project page link is https://github.com/benji1326/Starbuck-Capstone-project
+
+Proposal review link: https://review.udacity.com/#!/reviews/3057452
